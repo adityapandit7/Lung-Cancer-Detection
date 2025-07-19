@@ -1,2 +1,2 @@
-# Lung-Cancer-Detection
-Lung Cancer Detection using Naive Bayesian Classification
+# Lung-Cancer-Prediction
+Lung Cancer Prediction using Naive Bayesian Classification
